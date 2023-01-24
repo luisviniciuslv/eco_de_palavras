@@ -20,6 +20,11 @@ export default function Document() {
           id="stitches"
           dangerouslySetInnerHTML={{ __html: getCssText() }}
         />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9958517720718350"
+          crossOrigin="anonymous"
+        ></script>
       </Head>
       <body>
         <Main />
