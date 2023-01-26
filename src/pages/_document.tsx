@@ -5,6 +5,7 @@ export default function Document() {
   return (
     <Html lang="pt-BR">
       <Head>
+        <meta name="monetag" content="25465d146a170cb409c3d5d1686fa405" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
